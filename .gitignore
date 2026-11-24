@@ -1,0 +1,16 @@
+# Godot generated cache
+.godot/
+
+# Local builds and exports
+build/
+*.exe
+*.pck
+
+# User-specific/editor files
+*.tmp
+*.log
+
+# Local music asset (provide your own copy)
+audio/background_music.mp3
+audio/background_music.mp3.import
+
